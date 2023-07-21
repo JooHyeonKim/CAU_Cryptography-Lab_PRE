@@ -19,7 +19,7 @@ https://sites.google.com/view/paiclab
 📃 task : microsoft SEAL library 설치 및 실행
 
 ## week2
-📃task : SEAL library의 5)ckks_basics.cpp와 6)rotation.cpp 코드를 이해 및 분석
+📃task : SEAL library의 5)ckks_basics.cpp와 6)rotation.cpp 코드 이해 및 분석
 
 ## week3
 📃task : SEAL library의 5)ckks_basics.cpp와 6)rotation.cpp 코드를 참고하여 (x+1)^2 * (x^2+1)을 계산 후 2 step 왼쪽으로 rotation하는 코드 작성
