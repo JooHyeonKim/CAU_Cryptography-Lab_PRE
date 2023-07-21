@@ -10,8 +10,7 @@
 * PAICLAB 홈페이지 : https://sites.google.com/view/paiclab <br/>
 * 노션 링크 : https://www.notion.so/5bb3b3abac3f4ed1a2720faa270875f9?v=ebb4e44e3b0c498890a9a5a5c561c1ea&pvs=4
 
-<br/><br/>
-
+<br/>
 
 <h4><b>🛠 Tech Stack 🛠</b></h4>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
