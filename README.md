@@ -39,7 +39,7 @@
 &nbsp;&nbsp;&nbsp;     - 초기 scale = 2^50<br/>
 &nbsp;&nbsp;&nbsp;      - {60, 50, 50, 50, 50, 60}<br/>
 
-
+🔗 OpenFHE documentation : https://openfhe-development.readthedocs.io/en/latest/
 
 
 
