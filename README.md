@@ -42,6 +42,25 @@
 
 🔗 OpenFHE documentation : https://openfhe-development.readthedocs.io/en/latest/
 
+## week5
+📃 task : OpenFHE의 Cipertext를 class로 만들어서 scale 및 decryption vector 추적 </br></br>
+ex. Cipertext ct </br>
+    ct.showDetail </br>
+-> scale : ~~ </br>
+-> decryption : ~~</br>
+-> original : ~~</br>
+* 암호화한 시점에 보여주고, 연산할수록 얼마나 차이가 나는지 확인할 수 있도록 한다.</br>
+
+
+
+                   
+
+
+
+
+
+
+
 
 
 
