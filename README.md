@@ -43,6 +43,10 @@
 🔗 OpenFHE documentation : https://openfhe-development.readthedocs.io/en/latest/
 
 ## week5
+📃 task : OpenFHE의 ciphertext-fwd.h 코드 분석
+
+
+## week6
 📃 task : OpenFHE의 Cipertext를 class로 만들어서 scale 및 decryption vector 추적 </br></br>
 ex. Cipertext ct </br>
     ct.showDetail </br>
@@ -50,6 +54,10 @@ ex. Cipertext ct </br>
 -> decryption : ~~</br>
 -> original : ~~</br>
 * 암호화한 시점에 보여주고, 연산할수록 얼마나 차이가 나는지 확인할 수 있도록 한다.</br>
+<br/>
+
+![image](https://github.com/JooHyeonKim/CAU_Cryptography-Lab_PRE/assets/56497471/e8a19aaa-2628-483d-b6ba-96796929866b)
+
 
 
 
