@@ -13,7 +13,7 @@
 
 <h4><b> 🔗 참고 사이트 🔗</b></h4>  
 * PAICLAB 홈페이지 : https://sites.google.com/view/paiclab <br/>
-* 노션 링크 : https://www.notion.so/5bb3b3abac3f4ed1a2720faa270875f9?v=ebb4e44e3b0c498890a9a5a5c561c1ea&pvs=4
+* 노션 링크 : [https://www.notion.so/5bb3b3abac3f4ed1a2720faa270875f9?v=ebb4e44e3b0c498890a9a5a5c561c1ea&pvs=4](https://marble-yumberry-976.notion.site/5bb3b3abac3f4ed1a2720faa270875f9?v=ebb4e44e3b0c498890a9a5a5c561c1ea)
 
 <br/>
 
