@@ -63,8 +63,12 @@ ex. Cipertext ct </br>
 
                    
 
+## 📃 Reference
+* Microsoft SEAL
+https://github.com/microsoft/SEAL
 
-
+* OpenFHE
+https://github.com/openfheorg/openfhe-development
 
 
 
